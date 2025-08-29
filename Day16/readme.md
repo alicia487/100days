@@ -18,7 +18,6 @@
 - [Practice Modifying Object Attributes and Calling Methods](#practice-modifying-object-attributes-and-calling-methods)
 - [Building the Coffee Machine in OOP](#building-the-coffee-machine-in-oop)
 
-
 ---
 
 # OOP(Object Oriented Programming)
@@ -315,7 +314,7 @@ my_screen.exitonclick()
 
 ## 정리
 
-[거북이 코드]()
+[거북이 코드](https://github.com/alicia487/100days/blob/main/Day16/exercise/main.py)
 
 1. 블루프린트에서 class를 새 object로 만들기
     ```
@@ -341,7 +340,7 @@ my_screen.exitonclick()
 ---
 
 # Python Packages
-[연습 prettytable]()
+[연습 prettytable](https://github.com/alicia487/100days/blob/main/Day16/exercise/exercise_table.py)
 
 # Practice Modifying Object Attributes and Calling Methods
 ```py
@@ -368,8 +367,8 @@ print(table)
 
 ```
 
-
+---
 # Building the Coffee Machine in OOP
 모듈을 이용해서 커피머신 코드를 재작성하세요.
 
-커피머신 OOP 링크()
+[커피머신 OOP](https://github.com/alicia487/100days/tree/main/Day16/oop-coffee-machine-start)
