@@ -22,6 +22,7 @@
 
 # OOP(Object Oriented Programming)
 - 객체 지향 프로그래밍
+- [OOP 정리.pdf](https://github.com/alicia487/100days/blob/main/Day16/OPP%20%EC%A0%95%EB%A6%AC.pdf)
 
 # Procedural Programming
 하나의 파일에 코드를 때려 넣으면 코드가 복잡해짐
